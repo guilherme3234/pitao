@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/Projeto_Hotelaria_DJANGO/media"
+		}
+	],
+	"settings": {
+		"workbench.iconTheme": "vs-seti"
+	}
+}
